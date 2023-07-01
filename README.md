@@ -7,7 +7,6 @@
   - 🎮 When free I play games, mostly mobile legends. Follow me on ID:202422218 to play together
   
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dwiki-mukti&show_icons=true&include_all_commits=true&count_private=true" alt="Dwiki's stats" height="200" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwiki-mukti&layout=compact&langs_count=10" alt="Programming language" height="200" />
 </p>
 
